@@ -1,7 +1,6 @@
-Javascript Tetris
-=================
 
-An HTML5 Tetris Game
+
+
 
  * [play the game](https://jakesgordon.com/games/tetris/)
  * read a [blog article](https://jakesgordon.com/writing/javascript-tetris/)
